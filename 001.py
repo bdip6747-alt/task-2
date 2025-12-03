@@ -6,6 +6,7 @@ if number % 2 == 0:
     print("Even Number")
 else :
     print("Odd Number")
+    
 task - 2
 
 # sum 1 to 50 using loop
