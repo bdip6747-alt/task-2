@@ -7,6 +7,6 @@ else :
 
 # sum 1 to 50 using loop
 total = 0
-for i in range(1, number):
-    total += i
+for i in range(1, 51):
+    total = total+i
     print(total)
